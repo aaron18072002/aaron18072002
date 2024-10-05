@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi 👋, I'm Thanh Anh
 
-<!--
-**aaron18072002/aaron18072002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious and passionate developer from DaNang, VietNam
+✍ I'm currently studying at Duy Tan University (DTU).
+🌱 Studying and working as a Full-stack Developer.
+Contact me
+ linkedin 
 
-Here are some ideas to get you started:
+My Tech Stack
+C# ASP.NET CORE Javascript Node.js Vue.js Nuxt.js Sass Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools
+My SQL Server My SQL GitHub Docker AWS Firebase
