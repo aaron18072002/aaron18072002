@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Duy Tan University (DTU)**
 
-- 💬 Ask me about **C#, .NET, ASP.NET, Javascript, Typescipt, SQL**
+- 💬 Ask me about **C#, Java, Sql**
 
 - 📫 How to reach me **nguyenthanhanhtp123@gmail.com**
 
