@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaron18072002" alt="aaron18072002" /></a> </p>
 
-- 🌱 I’m currently working at FPT Software Da Nang as a Fresher Java
+- 🌱 I’m currently working at FPT Software Da Nang as a Java Developer
 
 - 💬 Ask me about **C#, Java, Sql**
 
